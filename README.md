@@ -107,6 +107,3 @@ exit
   - Kafka UI: `8080`
   - Kafka Brokers: `9092`, `9093`, `9094`
   - Zookeeper: `2181`, `2182`, `2183`
-
-Feel free to contribute or raise issues if you face any challenges!
-```
